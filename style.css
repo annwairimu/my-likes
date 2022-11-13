@@ -1,0 +1,23 @@
+
+.likes{
+     background: center/contain no-repeat linear-gradient(135deg, red,orange,yellow,green,blue,violet);
+     
+    border: 2px;
+    border-style: solid;
+    margin: auto;} 
+
+#head{
+
+    font-size: 180%;
+
+}
+ol li{
+     list-style: lower-roman;
+    
+    color: rgb(4, 63, 44); 
+}
+ul li{
+    list-style: circle;
+    color: black;
+
+}
